@@ -1,7 +1,7 @@
 ## Learn React D-3
 Simple Todo App dengan React dan Reactstrap.
 
-##How to run
+## How to run
 
 # using npm
 
