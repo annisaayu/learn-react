@@ -15,8 +15,8 @@ npm start
 yarn install
 yarn start
 ```
-## Learn More
+## Documentation
 
-[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-[React documentation](https://reactjs.org/).
-[Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page).
+- [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [React documentation](https://reactjs.org/).
+- [Reactstrap](https://reactstrap.github.io/?path=/story/home-installation--page).
